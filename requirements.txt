@@ -1,3 +1,5 @@
 scikit-learn
+scikit-matter
 pandas
 numpy
+matplotlib
